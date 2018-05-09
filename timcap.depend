@@ -1,0 +1,41 @@
+# depslib dependency file v1.0
+1525707981 source:c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\console.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+	"console.h"
+
+1525708028 c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\console.h
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<conio.h>
+	<windows.h>
+
+1525707931 source:c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\dichuyen.cpp
+	"dichuyen.h"
+
+1525708088 c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\dichuyen.h
+	<iostream>
+	"console.h"
+
+1525707892 source:c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\taomang2chieu.cpp
+	"taomang2chieu.h"
+	<cstdlib>
+	<ctime>
+	<iostream>
+
+1525708077 c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\taomang2chieu.h
+	<iostream>
+
+1525709331 source:c:\users\administrator.pnjmrxltdj98s0s\desktop\timcap\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<fstream>
+	"console.h"
+	"dichuyen.h"
+	"taomang2chieu.h"
+
